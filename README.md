@@ -1,2 +1,1 @@
-# kakao-clone
- 
+Kakao Desctop App Clone
